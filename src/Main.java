@@ -82,7 +82,7 @@ public class Main {
             case 9:
             case 10:
             case 11:
-                System.out.println("0сенний месяц.");
+                System.out.println("Осенний месяц.");
                 break;
         }
     }
